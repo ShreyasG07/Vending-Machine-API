@@ -30,7 +30,7 @@ Give the instructions,
 	    cd file_location 
 	    pip install -r requirements.txt(file_name)
 
- 
+<p align="center"><img width=80% src="C:\Users\shrey\OneDrive\Desktop\1.png"></p>
 
 
 ### 2.	
