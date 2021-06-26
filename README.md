@@ -30,24 +30,30 @@ Give the instructions,
 	    cd file_location 
 	    pip install -r requirements.txt(file_name)
 
-<p align="center"><img width=80% src="C:\Users\shrey\OneDrive\Desktop\1.PNG"></p>
-
+![1](https://user-images.githubusercontent.com/65353861/123509074-196b5a80-d691-11eb-8ba4-da33af5ccca1.png)
 
 ### 2.	
 If you have “app.py” file at the same location
 
 Give command as
 	flask run
- 
+![2](https://user-images.githubusercontent.com/65353861/123509125-68b18b00-d691-11eb-97a1-aec0c0626ccd.png)
+
+
 So the code is running
 URL is given. Go to that url.
 	127.0.0.1:5000/customer?drink=coke&penny=1&nickle=0&dime=0&quartet=1
-
+![3](https://user-images.githubusercontent.com/65353861/123509146-7ebf4b80-d691-11eb-8ed9-72edacc9c47e.png)
  
 We can give the input at URL  by changing the values so when we will make any website or when we implement it then we will get input from the URL.
 
  
-![1](https://user-images.githubusercontent.com/65353861/123509074-196b5a80-d691-11eb-8ba4-da33af5ccca1.png)
+OR
+
+We can directly run also by changing some code. By giving the input.
+![4](https://user-images.githubusercontent.com/65353861/123509193-a6aeaf00-d691-11eb-8b07-10617271d897.jpg)
+
+
 
 ### 3.	
 If supplier wants to reset the system (vending machine)
@@ -55,7 +61,7 @@ Use the URL:-
 
 	127.0.0.1:5000/supplier
 
- 
+![5](https://user-images.githubusercontent.com/65353861/123509201-af06ea00-d691-11eb-8b2d-aa0155400799.png)
 
 So it will restart the system.
 We can also add password feature in it so that only supplier who knows the password can reset the system.
@@ -83,14 +89,21 @@ Example:-
 1.	If customer want “Pepsi” and If he give 1 Dime and 1 Quarter.
 So he will get refund of 35-32 =3rs.
 
-  
+  ![6](https://user-images.githubusercontent.com/65353861/123509263-04db9200-d692-11eb-9a0a-4772719ff956.png)
+
  So the customer will get pepsi and 3rs (3 * penny) in refund.
 
 
 2.	If customer want “Coke” and If he give only 1 Dime.
+![7](https://user-images.githubusercontent.com/65353861/123509252-ee353b00-d691-11eb-8ff6-3f62b8f0d5b0.png)
 
- 
 He will get error as “Insufficient amount” and money will be refunded.
 
 3.	If customer give much more that actual price and machine do not have that much change.
+![8](https://user-images.githubusercontent.com/65353861/123509251-ee353b00-d691-11eb-8dad-9fe029ca3897.png)
+
+## FOR SUPPLIER:-
+ ![0](https://user-images.githubusercontent.com/65353861/123509273-19b82580-d692-11eb-95e2-85a606f6a533.png)
+
+Data will be stored like this
 
