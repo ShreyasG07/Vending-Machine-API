@@ -6,7 +6,8 @@ A REST API (also known as RESTful API) is an application programming interface (
 
 ## Stepwise instructions to run on windows:-
 
-1.	At first , Install the requirements to run the python code.
+### 1.	
+At first , Install the requirements to run the python code.
 
 aniso8601==8.0.0
 click==7.1.2
@@ -32,7 +33,8 @@ Give the instructions,
  
 
 
-2.	If you have “app.py” file at the same location
+### 2.	
+If you have “app.py” file at the same location
 
 Give command as
 	flask run
@@ -53,7 +55,8 @@ We can directly run also by changing some code. By giving the input.
  
 
 
-3.	If supplier wants to reset the system (vending machine)
+### 3.	
+If supplier wants to reset the system (vending machine)
 Use the URL:-
 
 	127.0.0.1:5000/supplier
@@ -66,7 +69,7 @@ We can also add password feature in it so that only supplier who knows the passw
 
 
 
-Working of the system:- 
+## Working of the system:- 
 
 We have 3 products:- 
 Coke = 25rs 
@@ -98,6 +101,6 @@ He will get error as “Insufficient amount” and money will be refunded.
 3.	If customer give much more that actual price and machine do not have that much change.
 
  
-FOR SUPPLIER:-
+### FOR SUPPLIER:-
  
 Data will be stored like this
