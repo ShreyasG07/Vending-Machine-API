@@ -30,7 +30,7 @@ Give the instructions,
 	    cd file_location 
 	    pip install -r requirements.txt(file_name)
 
-<p align="center"><img width=80% src="C:\Users\shrey\OneDrive\Desktop\1.png"></p>
+<p align="center"><img width=80% src="C:\Users\shrey\OneDrive\Desktop\1.PNG"></p>
 
 
 ### 2.	
@@ -47,13 +47,7 @@ URL is given. Go to that url.
 We can give the input at URL  by changing the values so when we will make any website or when we implement it then we will get input from the URL.
 
  
-
-OR
-
-We can directly run also by changing some code. By giving the input.
-
- 
-
+![1](https://user-images.githubusercontent.com/65353861/123509074-196b5a80-d691-11eb-8ba4-da33af5ccca1.png)
 
 ### 3.	
 If supplier wants to reset the system (vending machine)
@@ -100,7 +94,3 @@ He will get error as “Insufficient amount” and money will be refunded.
 
 3.	If customer give much more that actual price and machine do not have that much change.
 
- 
-### FOR SUPPLIER:-
- 
-Data will be stored like this
